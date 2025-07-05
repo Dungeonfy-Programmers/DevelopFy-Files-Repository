@@ -13,7 +13,7 @@
       "url": "https://raw.githubusercontent.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository/refs/heads/main/skripts/Ponts%20Tools/skript.sk"
     }
   },
-  "mappacks": {
+  "worlds": {
     "Chickenmapfy": {
       "description": "Narcissim in a Dungeonfy map",
       "map_url": "https://github.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository/raw/refs/heads/main/mappacks/Chickenmapfy/ul_void.zip",
