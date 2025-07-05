@@ -29,7 +29,7 @@
     "test": {
       "description": "testing n shit",
       "url": "https://raw.githubusercontent.com/Dungeonfy-Programmers/DevelopFy-Files-Repository/main/Files/Other/test.txt",
-      "download_path": "/plugins/"
+      "download_path": "/localhost/plugins/"
     }
   }
   
