@@ -36,6 +36,13 @@
       "dependencies": []
     }
   },
+  "plugins": {
+    "CommandExecutor": {
+      "description": "A plugin required to use the console function of developfy",
+      "url": "https://github.com/Dungeonfy-Programmers/dfysp/blob/47ae39ee4e67d7602382e623df7d90fd289b54be/plugins/CommandExecutor.jar",
+      "dependencies": []
+    }
+  }
   
   
 }
