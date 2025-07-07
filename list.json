@@ -33,7 +33,7 @@
     "Empty": {
       "description": "Empty world folder",
       "url": "https://github.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository/raw/refs/heads/main/mappacks/Empty/ul_void.zip",
-      "download_path": "/worldFiles",
+      "download_path": "/worldFiles/",
       "dependencies": {}
     }
   },
