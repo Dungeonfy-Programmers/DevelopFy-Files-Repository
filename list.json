@@ -21,6 +21,12 @@
       "description": "Narcissim in a Dungeonfy map",
       "url": "https://github.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository/raw/refs/heads/main/mappacks/Chickenmapfy/ul_void.zip",
       "dependencies": {}
+    },
+    "Empty": {
+      "description": "Empty world folder",
+      "url": "https://github.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository/raw/refs/heads/main/mappacks/Empty/ul_void.zip",
+      "download_path": "/worldFiles/",
+      "dependencies": {}
     }
   },
   "other": {
@@ -28,12 +34,6 @@
       "description": "testing n shit",
       "url": "https://raw.githubusercontent.com/Dungeonfy-Programmers/DevelopFy-Files-Repository/main/Files/Other/test.txt",
       "download_path": "/localhost/plugins/",
-      "dependencies": {}
-    },
-    "Empty": {
-      "description": "Empty world folder",
-      "url": "https://github.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository/raw/refs/heads/main/mappacks/Empty/ul_void.zip",
-      "download_path": "/worldFiles/",
       "dependencies": {}
     }
   },
